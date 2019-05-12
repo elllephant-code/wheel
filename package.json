@@ -1,5 +1,5 @@
 {
-    "name": "wheel",
+    "name": "@elllephant/wheel",
     "version": "1.0.0",
     "description": "Javascript library for creating wheel layout.",
     "main": "dist/index.js",
